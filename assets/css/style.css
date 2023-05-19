@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+.stApp {
+    /* .sasdftApp{ */
+    background: #0264d6;
+    /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, #0264d6 1%, #1c2b5a 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%, #0264d6), color-stop(100%, #1c2b5a));
+    /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover, #0264d6 1%, #1c2b5a 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse covera, #0264d6 1%, #1c2b5a 100%);
+    /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover, #0264d6 1%, #1c2b5a 100%);
+    /* IE10+ */
+    background: radial-gradient(ellipse at center, #0264d6 1%, #1c2b5a 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0264d6', endColorstr='#1c2b5a', GradientType=1);
+    /* IE6-9 fallback on horizontal gradient */
+    height: calc(100vh);
+    width: 100%;
+}
+
+.css-12ttj6m {
+    background-color: #fff;
+    top: 100px;
+}
+
+.css-1v0mbdj {
+    height: 60px;
+    width: 250px;
+}
+
+.row-widget .stButton {
+    text-align: center;
+}
+
+.row-widget .css-1n543e5 {
+    background-color: #024488 !important;
+    border-color: #024488 !important;
+    color: #fff !important;
+    width: 125px;
+    height: 40px;
+    border-radius: 25px;
+    transition: background 0.3s ease-in-out;
+}
+
+.row-widget .css-1n543e5:hover {
+    background-color: #022B57 !important;
+}
+
+.edgvbvh1 {
+    background-color: #ccc !important;
+    border-color: #ccc !important;
+    color: #000 !important;
+    width: 125px;
+    height: 40px;
+    border-radius: 25px;
+    transition: background 0.3s ease-in-out;
+}
+
+.edgvbvh1:hover {
+    background-color: #eee !important;
+}
+
+
+.st-es {
+    gap: 2px
+}
+
+.css-ocqkz7 {
+    align-items: baseline;
+}
+
+.css-z5fcl4 {
+    padding: 1rem 1rem 5rem !important
+}
+
+/* Modal Hide css */
+.st-cy {
+    display: none;
+}
+
+button[aria-selected="true"] {
+    background-color: #000;
+    color:#fff;
+}
+
+.st-el button p{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.st-fe{
+    background-color: #fff;
+}
+.css-z1xdiu{
+    background-color: #ffffff;
+    border: 1px solid #CCCCCC;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border-left: 0.5rem solid #9AD8E1 !important;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+.css-wnm74r{
+    font-size: 2.2rem;
+}
+.st-fy{
+    color: #777!important;
+    -webkit-text-fill-color:#777;
+    background-color: #fff;
+}
+.st-f5:hover{color: #fff}
+.st-fb:focus{color: #fff;}
+.css-5rimss p {margin-bottom: 10px;}
+.stSelectbox p{color: #fff;}
+.stMarkdown p{color: #fff;}
