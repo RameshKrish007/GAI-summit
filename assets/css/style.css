@@ -26,7 +26,9 @@
     background-color: #fff;
     top: 100px;
 }
-
+.st-e5{
+    background-color: #fff;
+}
 .css-1v0mbdj {
     height: 60px;
     width: 250px;
@@ -40,7 +42,7 @@
     background-color: #024488 !important;
     border-color: #024488 !important;
     color: #fff !important;
-    width: 125px;
+    width: 140px;
     height: 40px;
     border-radius: 25px;
     transition: background 0.3s ease-in-out;
@@ -54,7 +56,7 @@
     background-color: #ccc !important;
     border-color: #ccc !important;
     color: #000 !important;
-    width: 125px;
+    width: 140px;
     height: 40px;
     border-radius: 25px;
     transition: background 0.3s ease-in-out;
@@ -65,28 +67,36 @@
 }
 
 
-.st-es {
-    gap: 2px
+.st-da {
+    gap: 3px
 }
 
-.css-ocqkz7 {
+/* .css-ocqkz7 {
     align-items: baseline;
+} */
+.css-ytkq5y .e1tzin5v1{
+    top: 40px
 }
-
+/* .css-ytkq5y{
+    top: 30px
+}  */
 .css-z5fcl4 {
     padding: 1rem 1rem 5rem !important
 }
 
 /* Modal Hide css */
-.st-cy {
+/* .st-cy {
     display: none;
-}
+} */
 
 button[aria-selected="true"] {
     background-color: #000;
     color:#fff;
 }
-
+button[data-baseweb="tab"] p{
+    font-size: 18px;
+    font-weight: bold;
+}
 .st-el button p{
     font-size: 1.1rem;
     font-weight: bold;
@@ -110,8 +120,9 @@ button[aria-selected="true"] {
     -webkit-text-fill-color:#777;
     background-color: #fff;
 }
-.st-f5:hover{color: #fff}
-.st-fb:focus{color: #fff;}
+.css-1vbkxwb p{color:#fff}
+.st-ds:hover{color: #fff}
+.st-dx:focus{color: #fff;}
 .css-5rimss p {margin-bottom: 10px;}
 .stSelectbox p{color: #fff;}
 .stMarkdown p{color: #fff;}
